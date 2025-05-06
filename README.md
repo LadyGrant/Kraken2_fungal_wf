@@ -167,7 +167,6 @@ echo "✅ All Kraken2 fungal classifications complete!"
 
 ---
 
-## ✅ Summary
+## Summary
 This workflow provides a reliable workaround for Kraken2 fungal classification when default downloads fail. Manual curation + FASTA header correction restores compatibility. This setup is ideal for microbial ecology or soil metagenome studies targeting the fungal component.
 
-Feel free to fork or cite this workflow for similar projects!
