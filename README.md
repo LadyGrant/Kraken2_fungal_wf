@@ -7,7 +7,7 @@ This pipeline documents the process of building a **fungal-only Kraken2 database
 
 ---
 
-## ⚠️ NCBI FTP Path Bug
+## NCBI FTP Path Bug
 Kraken2’s `--download-library fungi` command fails with an error like:
 
 ```
